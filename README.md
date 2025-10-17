@@ -1,4 +1,4 @@
-## Weican Zhang _et al._, 2025, _Unpubulished data_
+## Weican Zhang _et al._, 2025, _Unpublished data_
 
 This repository contains original codes used in the manuscript 'Identification of the key allergenic protein for bird fancier’s lung'. 
 
